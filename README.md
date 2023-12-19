@@ -23,4 +23,4 @@ Este proyecto está bajo la licencia MIT.
 
 ## Contribuidores
 
-Este proyecto fue creado por Ignacio Hernández y ...
+Este proyecto fue creado por Ignacio Hernández y Pedro Olmos
